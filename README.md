@@ -1,0 +1,3 @@
+GPG KEY
+
+    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
